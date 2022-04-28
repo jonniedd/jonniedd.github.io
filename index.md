@@ -18,6 +18,7 @@ We were presented with the offer to customize the professor's website to our lik
 
 ### Features:
 
+- Fully scaled for each type of device
 - Animated navigation bar: As mouse is hovered over the options, a green line is shown.
 - Header with text/images
 - Blog-style formatting that showcases the research pages
